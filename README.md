@@ -5,11 +5,23 @@ I can identify as a data scientist, as I have done a certificate in data science
 ![image](https://github.com/user-attachments/assets/0ce9425a-a78e-4354-a9c0-609f4a690d0d)
 
 
-## About Me 
-***
+## ✨ About Me 
 * 🔭 I'm currently working on my portfolio, building my own portfolio.<br> 
 * 🌱 I'm currently learning react and Django and react. 
-* 🤔 I'm looking for help with the most efficient way of deploying models into the internet. 
+* 🤔 I'm looking for help with the most efficient way of deploying models into the internet.
+* ⚡ Funfact : Im a recreational runner and the longest Ive ever ran is 10km 
+*** 
+## ✨ Interests 
+* IOT devices and technology
+* LLM's and utilizing them to solve real world problems
+* AI Agents and automation of repititive tasks
+***
+## 🛠️ Technologies and Tools 
+**Languages : ** 
+Python, Javascript 
+** Frameworks : ** 
+Django, NumPy, Pandas, PyPSA, 
+
 
 <!--
 **clairemuthoni/clairemuthoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
