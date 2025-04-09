@@ -17,14 +17,14 @@ I can identify as a data scientist, as I have done a certificate in data science
 * AI Agents and automation of repititive tasks
 ***
 ## 🛠️ Technologies and Tools 
-**Languages :** 
+* **Languages :** 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-**Frameworks :** 
+* **Frameworks :** 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PyPSA](https://img.shields.io/badge/PyPSA-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-**Databases**
+* **Databases**
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 *** 
