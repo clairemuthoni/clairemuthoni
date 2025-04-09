@@ -36,6 +36,7 @@ I can identify as a data scientist, as I have done a certificate in data science
 ![Claire's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clairemuthoni&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clairemuthoni&layout=compact&theme=github_dark)
 
+***
 
 ## 📫 Let's Connect !
 
