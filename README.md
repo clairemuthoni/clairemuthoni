@@ -31,6 +31,17 @@ I can identify as a data scientist, as I have done a certificate in data science
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 *** 
+## 📫 Let's Connect !
+
+Feel free to reach out if you want to collaborate, geek out over data, or just say hi! 
+
+* 📧 muthoniclaire555@gmail.com
+* 💼 [LinkedIn](https://www.linkedin.com/in/claire-muthoni-5322a7358/)
+* 🌐 Portfolio website - Coming Soon !!
+
+***
+
+“We learn more by doing and sharing—so here I am doing both.”
 
 
 <!--
