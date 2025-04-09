@@ -31,6 +31,12 @@ I can identify as a data scientist, as I have done a certificate in data science
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 *** 
+## Stats 
+
+![Claire's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clairemuthoni&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clairemuthoni&layout=compact&theme=github_dark)
+
+
 ## 📫 Let's Connect !
 
 Feel free to reach out if you want to collaborate, geek out over data, or just say hi! 
