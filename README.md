@@ -12,7 +12,7 @@ I have done a certificate in data science . I am also a beginning to learn on ho
 * ⚡ Funfact : Im a recreational runner.
 *** 
 ## ✨ Interests 
-* IoT devices and technology
+* Data Science and Machine Learning 
 * LLM's and utilizing them to solve real world problems
 * AI Agents and automation of repititive tasks
 ***
@@ -23,7 +23,6 @@ I have done a certificate in data science . I am also a beginning to learn on ho
 * **Frameworks :**
   
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PyPSA](https://img.shields.io/badge/PyPSA-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 * **Databases**
