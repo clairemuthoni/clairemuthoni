@@ -6,20 +6,21 @@ I have done a certificate in data science . I am also a beginning to learn on ho
 
 
 ## ✨ About Me 
-* 🔭 I'm currently  building my own portfolio. 
-* 🌱 I'm currently learning react and Django. 
-* 🤔 I would appreciate support on the most efficient way of deploying models.
+* 🔭 I'm currently preparing for the IEEE XTeme Coding Competition, which entails intensive coding and problem-solving under time constraints. 
+* 🌱 I'm currently learning how to integrate AI/ML models into web applications. 
+* 🤔 I am curious about cloud technologies and deployment of applications and models.
 * ⚡ Funfact : Im a recreational runner.
 *** 
 ## ✨ Interests 
-* Data Science and Machine Learning 
-* LLM's and utilizing them to solve real world problems
-* AI Agents and automation of repititive tasks
+* Using AI & ML to solve real world problems  
+* GenAI and how it will evolve in the coming years 
+* Using Data Structures and Algorithms to make code more efficient and concise
 ***
 ## 🛠️ Technologies and Tools 
 * **Languages :**
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 * **Frameworks :**
   
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -32,8 +33,8 @@ I have done a certificate in data science . I am also a beginning to learn on ho
 *** 
 ## Stats 
 
-![Claire's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clairemuthoni&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clairemuthoni&layout=compact&theme=github_dark)
+![Claire's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clairemuthoni&show_icons=true&theme=github_dark&cache_seconds=0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clairemuthoni&layout=compact&theme=github_dark&cache_seconds=0)
 
 ***
 
@@ -43,7 +44,7 @@ Feel free to reach out if you want to collaborate, geek out over data, or just s
 
 * 📧 muthoniclaire555@gmail.com
 * 💼 [LinkedIn](https://www.linkedin.com/in/claire-muthoni-5322a7358/)
-* 🌐 Portfolio website - Coming Soon !!
+* 🌐 [Portfolio website](https://build-your-portfolio-github-workflo-six.vercel.app/) !!
 
 ***
 
