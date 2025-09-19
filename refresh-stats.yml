@@ -1,17 +1,17 @@
-name: Update README
+name: Refresh GitHub Stats
 on:
   schedule:
-    - cron: '0 0 * * *' # runs daily at midnight UTC
+    - cron: '0 * * * *' # every hour
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  refresh-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Commit README
+      - name: Trigger stats refresh
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git commit --allow-empty -m "Trigger stats refresh"
+          git commit --allow-empty -m "Trigger GitHub stats refresh"
           git push
