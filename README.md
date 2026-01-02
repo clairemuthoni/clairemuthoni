@@ -50,9 +50,9 @@ I have completed a certificate in Data Science and am continuously learning how 
 
 ## 📊 Stats
 
-![Claire's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clairemuthoni&show_icons=true&theme=github_dark&cache_seconds=0)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clairemuthoni&layout=compact&theme=github_dark&cache_seconds=0)
- 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clairemuthoni&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clairemuthoni&layout=compact&theme=github_dark)
+
 
 ---
 
