@@ -62,10 +62,29 @@ I'm currently expanding my knowledge of **Generative AI, LLMs, and AI Agents**, 
 ---
 
 
-## 📊 GitHub Statistics
-[![Claire's GitHub stats](https://github-stats-extended.vercel.app/api?username=clairemuthoni)](https://github.com/stats-organization/github-stats-extended)
 
----
+## 📊 GitHub Statistics
+
+### 🌟 Lifetime Overview
+
+<p align="center">
+  <img src="./github-stats.svg" alt="Claire's Lifetime GitHub Statistics" width="100%" />
+</p>
+
+### 📅 2026 Contribution Activity
+
+<p align="center">
+  <img src="./github-activity.svg" alt="Claire's 2026 Contribution Calendar" width="100%" />
+</p>
+
+### 💻 Most Used Programming Languages
+
+<p align="center">
+  <img src="./github-languages.svg" alt="Claire's Most Used Programming Languages" width="70%" />
+</p>
+
+
+--- 
 
 ### 💭 A Little Reminder
 
