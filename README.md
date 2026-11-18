@@ -63,15 +63,7 @@ I'm currently expanding my knowledge of **Generative AI, LLMs, and AI Agents**, 
 
 
 ## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=clairemuthoni&show_icons=true&theme=github_dark&hide_border=true" alt="Claire's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=clairemuthoni&layout=compact&theme=github_dark&hide_border=true" alt="Claire's Top Languages" />
-</p>
-
+[![Claire's GitHub stats](https://github-stats-extended.vercel.app/api?username=clairemuthoni)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
